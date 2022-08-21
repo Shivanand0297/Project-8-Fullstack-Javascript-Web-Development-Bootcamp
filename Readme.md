@@ -1,6 +1,6 @@
 # Fullstack Javascript Web Development Bootcamp (iNeuron)
 ## Name: Shivanand Prajapati
-## Project-8: Design Landing Page
+## Project-8: Web Design Landing Page
 ### Learnings:
 
 - How to work with view box property of svg.
